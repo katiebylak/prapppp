@@ -1,0 +1,38 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="thepurduereviewmobile.com" resolutions="1x" timestamp="1449164256791">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="322124111" ref="settings:index:contact:notifications"/>
+    <file name="settings.css" crc="252822886" ref="settings"/>
+    <file name="index.css" crc="171596577" ref="index"/>
+    <file name="contact.css" crc="163881568" ref="contact"/>
+    <file name="notifications.css" crc="4014009792" ref="notifications"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:notifications:settings:contact"/>
+    <file name="museutils.js" crc="275725342" ref="index:notifications:settings:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:notifications:settings:contact"/>
+    <file name="pie.js" crc="3827607177" ref="settings"/>
+    <file name="webpro.js" crc="3883484123" ref="contact"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u356.php" crc="233510886" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2015-11-30 at 50321 pm.jpg" crc="295175014" ref="index"/>
+    <file name="location-2 50633 pm.png" crc="4080467893" seo="true" ref="index"/>
+    <file name="bell-2-512 50633 pm.png" crc="405677620" seo="true" ref="index"/>
+    <file name="bookw 50633 pm.png" crc="4273156136" seo="true" ref="index"/>
+    <file name="account_icon 50633 pm.png" crc="320324912" seo="true" ref="index"/>
+    <file name="pencil-white-icon 50633 pm.png" crc="3997159565" seo="true" ref="index"/>
+    <file name="u362-17.png" crc="200884290" ref="contact"/>
+    <file name="u362-17-r.png" crc="195222174" ref="contact"/>
+    <file name="u362-17-m.png" crc="473606238" ref="contact"/>
+    <file name="u362-17-fs.png" crc="59421444" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="168751372" seo="true" mt="1449163621630" redirect="true"/>
+  <file name="notifications.html" crc="488786112" seo="true" mt="1449163907777" redirect="true"/>
+  <file name="settings.html" crc="300650753" seo="true" mt="1449163621630" redirect="true"/>
+  <file name="contact.html" crc="4111575299" seo="true" mt="1449163621630" redirect="true"/>
+</manifest>
